@@ -1,4 +1,4 @@
-## Arief Rachmawan | 19552011111 | TIFRP19B
+## Arief Rachmawan | 19552011111 | TIFRP19 CID A
 
 # Longwalks App Android
 Aplikasi ini dibuat untuk memenuhi tugas Ujian Tengah Semester Mobile Programming 1.  
