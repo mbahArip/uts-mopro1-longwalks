@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/fragment__daily"
+        android:icon="@drawable/dash_dailyicon"
+        android:title="Daily" />
+    <item
+        android:id="@+id/fragment__convo"
+        android:title="Conversations"
+        android:icon="@drawable/dash_conversationicon"/>
+    <item
+        android:id="@+id/fragment__profile"
+        android:title="Arief"
+        android:icon="@drawable/dash_profileicon" />
+</menu>

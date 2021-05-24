@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Circle">
+        <item name="cornerRadius">50dp</item>
+    </style>
+    <style name="Rounded">
+        <item name="cornerRadius">10dp</item>
+    </style>
+</resources>

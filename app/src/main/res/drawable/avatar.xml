@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:width="75dp" android:height="75dp">
+        <shape android:shape="oval">
+            <solid android:color="@color/white"/>
+        </shape>
+    </item>
+    <item
+        android:left="53dp"
+        android:top="45dp"
+        android:height="30dp"
+        android:width="30dp"
+        >
+        <shape android:shape="oval">
+            <solid android:color="@color/white"/>
+            <stroke android:color="@color/longwalk__bg" android:width="2dp"/>
+        </shape>
+    </item>
+    <item
+        android:drawable="@drawable/ic_material_edit"
+        android:left="61dp"
+        android:top="53dp"
+        android:width="15dp"
+        android:height="15dp"
+        />
+</layer-list>

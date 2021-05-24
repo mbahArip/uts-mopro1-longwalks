@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Longwalk_19552011111" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/longwalk__text</item>
+        <item name="colorPrimaryDark">@color/longwalk__text</item>
+        <item name="colorAccent">@color/longwalk__text</item>
+        <item name="android:statusBarColor">@color/longwalk__bg</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <!-- Customize your theme here. -->
+        <item name="android:autofilledHighlight">@android:color/transparent</item>
+    </style>
+</resources>

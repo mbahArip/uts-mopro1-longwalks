@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/dash_nav"
+    app:startDestination="@id/fragment__daily">
+
+    <fragment
+        android:id="@+id/fragment__daily"
+        android:name="com.example.longwalk_19552011111.fragment__daily"
+        android:label="fragment__daily"
+        tools:layout="@layout/fragment__daily" />
+    <fragment
+        android:id="@+id/fragment__convo"
+        android:name="com.example.longwalk_19552011111.fragment__convo"
+        android:label="fragment__convo"
+        tools:layout="@layout/fragment__convo" />
+    <fragment
+        android:id="@+id/fragment__profile"
+        android:name="com.example.longwalk_19552011111.fragment__profile"
+        android:label="fragment__profile"
+        tools:layout="@layout/fragment__profile" />
+</navigation>
